@@ -6,7 +6,7 @@ The lowest nightly rate is rarely the best deal. A ₹500 hostel that's an hour 
 
 Drop a pin on the map where you want to be, and the app finds nearby hostels, works out the real route and fare to your pin, and ranks them with an AI that weighs cost, transit time, transfers, amenities and your own priorities.
 
-![StaySmart AI](docs/screenshot.png)
+![StaySmart AI](docs/image.png)
 
 ## Features
 
